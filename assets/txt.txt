@@ -1,0 +1,62 @@
+<div class="phone">
+    <a href="https://twitter.com/krishnanand_3">
+        <i class="bi bi-twitter"></i>
+        <h4>Call:</h4>
+        <p>+91 7505 222 333</p>
+    </a>
+</div> 
+<div class="phone">
+    <a href="https://www.facebook.com/krishna.gupta.944/">
+        <i class="bi bi-facebook"></i>
+        <h4>Call:</h4>
+        <p>+91 7505 222 333</p>
+    </a>
+</div> 
+<div class="phone">
+                  <a href="https://www.instagram.com/krishna_gupta.oo3/"><i class="bi bi-instagram"></i></a>
+<div class="phone">
+                  <a href="https://github.com/Krishnanand03"><i class="bi bi-github"></i></a>
+<div class="phone">
+                  <a href="https://www.linkedin.com/in/krishnanand-gupta-9aa419b0/"><i class="bi bi-linkedin"></i></a>
+<div class="phone">
+<a href="https://api.whatsapp.com/send?phone=917505222333"><i class="bi bi-facebook"></i>
+<h4>Call:</h4>
+<p>+91 7505 222 333</p>
+</a>
+</div> 
+<div class="phone">
+<a href="https://join.skype.com/invite/YKJ4OX2RTwZy"><i class="bi bi-facebook"></i>
+<h4>Call:</h4>
+<p>+91 7505 222 333</p>
+</a>
+</div> 
+<div class="phone">
+<a href="https://telegram.me/Krishnanand98"><i class="bi bi-facebook"></i>
+<h4>Call:</h4>
+<p>+91 7505 222 333</p>
+</a>
+</div> 
+<div class="phone">
+<a href="https://www.quora.com/profile/Krishnanand-Gupta-7"><i class="bi bi-facebook"></i>
+<h4>Call:</h4>
+<p>+91 7505 222 333</p>
+</a>
+</div> 
+<div class="phone">
+<a href="https://www.yourquote.in/krishna-gupta-kxwn/quotes"><i class="bi bi-facebook"></i>
+<h4>Call:</h4>
+<p>+91 7505 222 333</p>
+</a>
+</div> 
+<div class="phone">
+<a href="https://www.youtube.com/channel/UCXnNli-9VVXJJhnO-CRBeTg"><i class="bi bi-facebook"></i>
+<h4>Call:</h4>
+<p>+91 7505 222 333</p>
+</a>
+</div> 
+<div class="phone">
+<a href="https://in.pinterest.com/krishnarider98/"><i class="bi bi-facebook"></i>
+<h4>Call:</h4>
+<p>+91 7505 222 333</p>
+</a>
+</div> 
